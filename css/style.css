@@ -82,7 +82,8 @@ html {
       }
   }
 
-.img-thumbnail:hover {
-    opacity: 0.4;
+i:hover {
+    transform: scale(1.5);
+    color: brown;
 }
 
